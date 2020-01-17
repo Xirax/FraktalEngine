@@ -1,0 +1,37 @@
+F:\D- Prace\Kursy informatyczne\C#\FractalEngine\FractalEngine\bin\Debug\FractalEngine.exe.config
+F:\D- Prace\Kursy informatyczne\C#\FractalEngine\FractalEngine\bin\Debug\FractalEngine.exe
+F:\D- Prace\Kursy informatyczne\C#\FractalEngine\FractalEngine\bin\Debug\FractalEngine.pdb
+F:\D- Prace\Kursy informatyczne\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.csprojAssemblyReference.cache
+F:\D- Prace\Kursy informatyczne\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.Form1.resources
+F:\D- Prace\Kursy informatyczne\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.Properties.Resources.resources
+F:\D- Prace\Kursy informatyczne\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.csproj.GenerateResource.cache
+F:\D- Prace\Kursy informatyczne\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.csproj.CoreCompileInputs.cache
+F:\D- Prace\Kursy informatyczne\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.exe
+F:\D- Prace\Kursy informatyczne\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.pdb
+F:\D- Prace\Kursy informatyczne\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.Engine.resources
+F:\D- Prace\Kursy informatyczne\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.InputControl.resources
+F:\D- Prace\Kursy informatyczne\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.ColorControl.resources
+F:\D- Prace\Informatyka\C#\FractalEngine\FractalEngine\bin\Debug\FractalEngine.exe.config
+F:\D- Prace\Informatyka\C#\FractalEngine\FractalEngine\bin\Debug\FractalEngine.exe
+F:\D- Prace\Informatyka\C#\FractalEngine\FractalEngine\bin\Debug\FractalEngine.pdb
+F:\D- Prace\Informatyka\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.csprojAssemblyReference.cache
+F:\D- Prace\Informatyka\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.ColorControl.resources
+F:\D- Prace\Informatyka\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.Engine.resources
+F:\D- Prace\Informatyka\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.Form1.resources
+F:\D- Prace\Informatyka\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.InputControl.resources
+F:\D- Prace\Informatyka\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.Properties.Resources.resources
+F:\D- Prace\Informatyka\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.csproj.GenerateResource.cache
+F:\D- Prace\Informatyka\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.csproj.CoreCompileInputs.cache
+F:\D- Prace\Informatyka\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.exe
+F:\D- Prace\Informatyka\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.pdb
+D:\PLIKI\Informatyka\C#\FractalEngine\FractalEngine\bin\Debug\FractalEngine.exe.config
+D:\PLIKI\Informatyka\C#\FractalEngine\FractalEngine\bin\Debug\FractalEngine.exe
+D:\PLIKI\Informatyka\C#\FractalEngine\FractalEngine\bin\Debug\FractalEngine.pdb
+D:\PLIKI\Informatyka\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.csprojAssemblyReference.cache
+D:\PLIKI\Informatyka\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.ColorControl.resources
+D:\PLIKI\Informatyka\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.Engine.resources
+D:\PLIKI\Informatyka\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.Form1.resources
+D:\PLIKI\Informatyka\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.InputControl.resources
+D:\PLIKI\Informatyka\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.csproj.GenerateResource.cache
+D:\PLIKI\Informatyka\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.exe
+D:\PLIKI\Informatyka\C#\FractalEngine\FractalEngine\obj\Debug\FractalEngine.pdb
